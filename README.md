@@ -1,2 +1,9 @@
-# CodeClause-Data-Science
-Excited to announce my appointment as a Data Science Intern at CodeClause! Grateful for the opportunity and eager to develop my skills in data science. Looking forward to a valuable learning experience and gaining expertise in this field. #DataScience #Internship
+
+## 📌 Task 1 - Customer Churn Rate Analysis
+
+Given a dataset containing information about `7,043 customers` from a Telecommunications company in California in Q2 2022, our task is to predict whether each customer will churn, stay, or join the company.
+
+The dataset includes details such as `tenure`, `subscription services`, and the `customer's status` for the quarter.
+
+Additionally, we have access to a Zip Code Population table that provides estimated population information for the California zip codes in the Customer Churn dataset.
+<br><br>
