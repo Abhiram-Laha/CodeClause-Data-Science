@@ -19,5 +19,16 @@ Plotting the active cases in states as on end date i.e. 8th May 2021
 <img src = "images/2.png">
 <img src = "images/3.png">
 <img src = "images/4.png">
+<img src = "images/5.png">
+
+<br>
+
+
+
+
+
+## ✍️ Authors
+
+- [Abhiram Laha](https://github.com/Abhiram-Laha)
 
 <br>
