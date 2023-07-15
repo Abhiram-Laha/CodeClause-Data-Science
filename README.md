@@ -32,6 +32,24 @@ The ability to predict and analyze COVID-19 data will result in better understan
 
 
 <br><br>
+<br><br>
+
+
+## 📌 Golden Project - ChatBot for CodeClause
+
+Develop a ChatBot for CodeClause to provide `coding assistance, personalized recommendations, and interactive learning experience` for users.<br><br>
+The ChatBot should respond to ```coding queries, offer guidance on coding challenges, provide accurate information on programming languages and best practices```, and assist in debugging code.  <br><br>
+
+
+
+## 👉 Application
+
+The CodeClause ChatBot is an application that provides `coding assistance, personalized recommendations, and interactive learning`.<br><br>
+It has a user-friendly interface, understands coding queries, offers guidance on programming languages and debugging code, and suggests personalized exercises and resources.<br><br>
+
+
+
+<br><br>
 
 
 <div align="center">
